@@ -31,7 +31,7 @@ body {
 }
 
 .btn:hover {
-    background-color: green;
+    background-color: yellow;
 }
 
 /* Table */
@@ -92,3 +92,4 @@ th {
     from { box-shadow: 0 0 5px white; }
     to { box-shadow: 0 0 20px yellow; }
 }
+
